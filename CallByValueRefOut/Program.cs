@@ -26,7 +26,7 @@ namespace CallByValueRefOut
             Console.WriteLine("Value of Z= " + z);
 
         }
-        public static void CByV(int a, int b)  //recieving arguments/ formal arguemnts
+        public static void CByV(int a, int b)  //recieving arguments/ formal arguments
         {
             Console.WriteLine(a + ", " + b);
             a = 100;
